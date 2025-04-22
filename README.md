@@ -1,7 +1,8 @@
 # 360-Sales-Customer-Analytics-Dashboard
 
 <img width="1222" alt="image" src="https://github.com/user-attachments/assets/d2ab8275-c239-44da-a6c7-cddd67e8e37f" />
-<img width="1222" alt="image" src="https://github.com/user-attachments/assets/f5db6520-2a65-4f8a-904e-dfdd106303ca" />
+<img width="1222" alt="image" src="https://github.com/user-attachments/assets/16345903-1ba0-4c05-9de8-0ae7dbd2b9d5" />
+
 
 
 **Project Description:**
