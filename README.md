@@ -1,4 +1,4 @@
-# 360-Sales-Customer-Analytics-Dashboard
+# Tableau | Analytics Dashboard
 
 
 **Project Description:**
